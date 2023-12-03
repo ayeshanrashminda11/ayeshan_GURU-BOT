@@ -62,7 +62,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '📌'
+global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
